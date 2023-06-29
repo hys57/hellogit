@@ -19,8 +19,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58c7a2aa-ffa3-4be3-8abc-42cb4d451225" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/hello2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -91,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688029400625</updated>
-      <workItem from="1688029401775" duration="2223000" />
+      <workItem from="1688029401775" duration="2880000" />
     </task>
     <task id="LOCAL-00001" summary="Test...">
       <created>1688030268424</created>
@@ -121,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688030633153</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test...">
+      <created>1688031653647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688031653647</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,10 +165,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Test..." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="442" y="0" key="CommitChangelistDialog2" timestamp="1688030632355">
+    <state x="442" y="0" key="CommitChangelistDialog2" timestamp="1688031652895">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="442" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1688030632355" />
+    <state x="442" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1688031652895" />
     <state x="93" y="93" width="1350" height="630" key="DiffContextDialog" timestamp="1688030877555">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -185,10 +197,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1688029555959" />
-    <state x="361" y="144" key="Vcs.Push.Dialog.v2" timestamp="1688031598626">
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2" timestamp="1688032234001">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1688031598626" />
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1688032234001" />
     <state x="570" y="317" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1688030876578">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
